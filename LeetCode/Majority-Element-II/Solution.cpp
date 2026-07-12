@@ -1,43 +1,33 @@
-1import java.util.*;
-2
-3class Solution {
-4    public List<Integer> majorityElement(int[] nums) {
-5        int cnt1 = 0, cnt2 = 0;
-6        Integer el1 = null, el2 = null;
-7
-8        // 1st pass: Find candidates
-9        for (int num : nums) {
-10            if (el1 != null && num == el1) {
-11                cnt1++;
-12            } else if (el2 != null && num == el2) {
+1class Solution {
+2public:
+3    vector<int> majorityElement(vector<int>& nums) {
+4        vector<int>ls;
+5        int cnt1 = 0,cnt2 = 0;
+6        int el1 = INT_MIN, el2 = INT_MIN;
+7        for(int i =0;i<nums.size();i++){
+8            if(cnt1 == 0 && nums[i] != el2){
+9                cnt1++;
+10                el1 = nums[i];
+11            }
+12            else if(cnt2 == 0 && nums[i]!= el1){
 13                cnt2++;
-14            } else if (cnt1 == 0) {
-15                el1 = num;
-16                cnt1 = 1;
-17            } else if (cnt2 == 0) {
-18                el2 = num;
-19                cnt2 = 1;
-20            } else {
-21                cnt1--;
-22                cnt2--;
-23            }
+14                el2 = nums[i];
+15            }
+16            else if(nums[i] == el1) cnt1++;
+17            else if(nums[i] == el2) cnt2++;
+18            else cnt1--, cnt2--;
+19        }
+20        int co1=0,co2=0;
+21        for(int i =0;i<nums.size();i++){
+22            if(el1 == nums[i]) co1++;
+23            if(el2 == nums[i]) co2++;
 24        }
-25
-26        // 2nd pass: Verify candidates
-27        cnt1 = 0;
-28        cnt2 = 0;
-29        for (int num : nums) {
-30            if (el1 != null && num == el1) cnt1++;
-31            else if (el2 != null && num == el2) cnt2++;
-32        }
-33
-34        List<Integer> result = new ArrayList<>();
-35        int n = nums.length;
-36        if (cnt1 > n / 3) result.add(el1);
-37        if (cnt2 > n / 3) result.add(el2);
-38
-39        Collections.sort(result); // optional, for sorted order
-40        return result;
-41    }
-42}
-43
+25        int n = (int)(nums.size()/3)+1 ;
+26       if(co1 >= n) ls.push_back(el1);
+27       if(co2 >= n) ls.push_back(el2);
+28
+29       sort(ls.begin(),ls.end());
+30
+31       return ls;
+32    }
+33};
