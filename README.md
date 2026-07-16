@@ -124,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
