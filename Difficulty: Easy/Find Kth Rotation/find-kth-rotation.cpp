@@ -7,6 +7,7 @@ class Solution {
        while(left <= right){
            long long mid = left + (right-left)/2;
            if(arr[mid] > arr[n-1]){
+            //   rotated = mid;
                left = mid+1;
            }
            else{
