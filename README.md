@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2643-row-with-maximum-ones) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
+| [2643-row-with-maximum-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Stack
 |  |
 | ------- |
