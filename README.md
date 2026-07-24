@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
