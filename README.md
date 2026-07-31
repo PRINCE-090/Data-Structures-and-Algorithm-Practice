@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -259,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
