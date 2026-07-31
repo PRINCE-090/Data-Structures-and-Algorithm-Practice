@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0237-delete-node-in-a-linked-list) |
