@@ -37,4 +37,22 @@ public:
         }
         return cnt;
     }
+
+
+ int delrow[4]= {-1,1,0,0};
+     int delcol[4]  = {0,0,-1,1};
+    void dfs(int row,int col,vector<vector<int>>&vis,vector<vector<char>>&grid,int n,int m){
+        vis[row][col] = 1;
+        for(int i = 0;i<4;i++){
+                    int nrow = row+delrow[i];
+                    int ncol = col+delcol[i];
+
+                    if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && 
+                    grid[nrow][ncol] == '1' && !vis[nrow][ncol]){
+                        vis[nrow][ncol] = 1;
+                        dfs(nrow,ncol,vis,grid,n,m);
+                    }
+            }
+        
+    }
 };
