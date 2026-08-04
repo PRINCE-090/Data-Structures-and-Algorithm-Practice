@@ -38,3 +38,33 @@ class Solution {
        
     } 
 };
+
+ bool dfs(int idx,int parent,vector<vector<int>>&adj,vector<int>&vis){
+       vis[idx] = 1;
+        for(auto it : adj[idx]){
+            if(!vis[it]){
+               if(dfs(it,idx,adj,vis)) return true;
+            }
+            else{
+                if(it != parent) return true;
+            }
+        }
+        return false;
+    }
+    bool isCycle(int V, vector<vector<int>>& edges) {
+        vector<vector<int>>adj(V);
+        for(int i = 0;i<edges.size();i++){
+            int src = edges[i][0];
+            int des = edges[i][1];
+            adj[src].push_back(des);
+            adj[des].push_back(src);
+        }
+       vector<int>vis(V,0);
+       for(int i = 0;i<V;i++){
+           if(!vis[i]){
+               if(dfs(i,-1,adj,vis)) return true;
+           }
+       }
+       return false;
+       
+    } 
