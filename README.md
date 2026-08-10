@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
