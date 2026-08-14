@@ -17,7 +17,7 @@ public:
             size = max(size,right-left+1);
              
         }
-        if(size == INT_MIN) return 1;
+        // if(size == INT_MIN) return 1;
         return size;
     }
 };
