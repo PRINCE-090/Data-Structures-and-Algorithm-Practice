@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
