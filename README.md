@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0136-single-number) |
