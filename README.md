@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0054-spiral-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0088-merge-sorted-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0118-pascals-triangle) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0503-next-greater-element-ii) |
