@@ -18,3 +18,24 @@ public:
         return res;
     }
 };
+
+
+class Solution {
+public:
+    int maxSubarraySumCircular(vector<int>& arr) {
+        int n = arr.size();
+        int currsum = 0, maxsum = INT_MIN;
+        int currsum2 = 0,minsum = INT_MAX ,totalsum = 0;
+        for(int i = 0;i<n;i++){
+            currsum+= arr[i];
+            currsum2+= arr[i];
+            totalsum+= arr[i];
+            maxsum = max(maxsum , currsum);
+            minsum = min(minsum , currsum2);
+            if(currsum <0) currsum = 0;
+            if(currsum2 >0) currsum2 = 0;
+        }
+       if(maxsum > 0) return max(maxsum , totalsum-minsum);
+       return maxsum;
+    } 
+};
