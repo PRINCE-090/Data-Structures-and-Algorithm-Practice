@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
 ## Hash Table
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -499,4 +502,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
