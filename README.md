@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -523,4 +526,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
