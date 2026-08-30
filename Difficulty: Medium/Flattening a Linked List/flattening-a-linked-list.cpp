@@ -10,7 +10,7 @@ public:
         next = nullptr;
         bottom = nullptr;
     }
-};*/
+};
    Node * mergeLists(Node *list1, Node *list2){
        Node *dummyNode = new Node(-1);
        Node *res = dummyNode;
