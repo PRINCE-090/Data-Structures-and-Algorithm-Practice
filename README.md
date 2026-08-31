@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -613,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0098-validate-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
