@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1021-remove-outermost-parentheses) |
