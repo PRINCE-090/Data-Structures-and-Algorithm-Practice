@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
 ## Hash Table
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
