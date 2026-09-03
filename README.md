@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
