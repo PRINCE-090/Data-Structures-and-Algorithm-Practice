@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0169-majority-element) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -661,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
