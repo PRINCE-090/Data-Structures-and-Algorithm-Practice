@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
