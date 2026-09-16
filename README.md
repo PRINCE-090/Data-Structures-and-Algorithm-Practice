@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0493-reverse-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
