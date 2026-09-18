@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0225-implement-stack-using-queues) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0210-course-schedule-ii) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
