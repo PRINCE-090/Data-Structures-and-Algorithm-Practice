@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
