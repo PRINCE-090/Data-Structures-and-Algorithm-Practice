@@ -1,3 +1,6 @@
+// For tabulation and memoization 
+// write function and pass
+// Space optmization
 class Solution {
 public:
     bool checksum(vector<int>& arr, int sum) {
