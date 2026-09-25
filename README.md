@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0743-network-delay-time) |
