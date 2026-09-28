@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
