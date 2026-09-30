@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
