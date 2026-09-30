@@ -1,20 +1,22 @@
 class Solution {
 public:
-    int ways(int idx,int target,vector<int>&coins,vector<vector<int>>&dp){
-        if(idx == 0){
-            return (target%coins[0] == 0);
-        }
-        if(dp[idx][target]!= -1) return dp[idx][target];
-        int notTake = ways(idx-1,target,coins,dp);
-        int take = 0;
-        if(coins[idx] <= target){
-            take = ways(idx,target-coins[idx],coins,dp);
-        }
-        return dp[idx][target] = notTake+take;
-    }
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        return ways(n-1,amount,coins,dp);
+        vector<vector<unsigned long long>>dp(n,vector<unsigned long long>(amount+1,0));
+        for(int i = 0;i<=amount;i++){
+            if(i%coins[0] == 0) dp[0][i] = 1;
+            else dp[0][i] = 0;
+        }
+        for(int idx = 1;idx<n;idx++){
+            for(int target = 0;target<=amount;target++){
+           unsigned long long notTake = dp[idx-1][target];
+           unsigned long long take = 0;
+            if(coins[idx] <= target){
+            take = dp[idx][target-coins[idx]];
+            }
+            dp[idx][target] = notTake+take;
+            } 
+        }
+        return (int) dp[n-1][amount];
     }
 };
