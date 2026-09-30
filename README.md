@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0506-relative-ranks) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -850,10 +853,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0322-coin-change](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0494-target-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
