@@ -23,3 +23,78 @@ class Solution {
         
     }
 };
+
+
+// Tabulation 
+class Solution {
+  public:
+    int knapSack(vector<int>& val, vector<int>& wt, int cap) {
+        int n = wt.size();
+        vector<vector<int>>dp(n,vector<int>(cap+1,0));
+        for(int i = 0;i<=cap;i++){
+            dp[0][i] = (i/wt[0])*val[0];
+        }
+        for(int idx = 1;idx<n;idx++){
+            for(int capacity = 0;capacity<=cap;capacity++){
+                int notTake = 0 + dp[idx-1][capacity];
+                int take = INT_MIN;
+                if(wt[idx] <= capacity){
+                 take = val[idx] + dp[idx][capacity-wt[idx]];
+                }
+                dp[idx][capacity] = max(take,notTake);
+            }
+        }
+        return dp[n-1][cap];
+        
+    }
+};
+
+// SPACE OPTIMIZATION USING 2 ARRAYS 
+class Solution {
+  public:
+    int knapSack(vector<int>& val, vector<int>& wt, int cap) {
+        int n = wt.size();
+        vector<int>prev(cap+1,0),curr(cap+1,0);
+        for(int i = 0;i<=cap;i++){
+            prev[i] = (i/wt[0])*val[0];
+        }
+        for(int idx = 1;idx<n;idx++){
+            for(int capacity = 0;capacity<=cap;capacity++){
+                int notTake = 0 + prev[capacity];
+                int take = INT_MIN;
+                if(wt[idx] <= capacity){
+                 take = val[idx] + curr[capacity-wt[idx]];
+                }
+                curr[capacity] = max(take,notTake);
+            }
+            prev = curr;
+        }
+        return prev[cap];
+        
+    }
+};
+
+// USING ONE ARRAY 
+
+class Solution {
+  public:
+    int knapSack(vector<int>& val, vector<int>& wt, int cap) {
+        int n = wt.size();
+        vector<int>prev(cap+1,0);
+        for(int i = 0;i<=cap;i++){
+            prev[i] = (i/wt[0])*val[0];
+        }
+        for(int idx = 1;idx<n;idx++){
+            for(int capacity = 0;capacity<=cap;capacity++){
+                int notTake = 0 + prev[capacity];
+                int take = INT_MIN;
+                if(wt[idx] <= capacity){
+                 take = val[idx] + prev[capacity-wt[idx]];
+                }
+                prev[capacity] = max(take,notTake);
+            }
+        }
+        return prev[cap];
+        
+    }
+};
