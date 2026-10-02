@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0410-split-array-largest-sum) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
