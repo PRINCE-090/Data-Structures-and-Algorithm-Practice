@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -893,5 +895,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
