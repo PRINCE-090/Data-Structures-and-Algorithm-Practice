@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0355-design-twitter) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0322-coin-change) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -839,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -857,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
