@@ -2,19 +2,16 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>>dp(n+1,vector<int>(2,0));
+        int aheadbuy,aheadnotbuy,currbuy,currnotbuy;
+        aheadbuy = 0, aheadnotbuy = 0;
         for(int ind = n-1;ind>=0;ind--){
-            for(int buy = 0;buy<=1;buy++){
-                long profit = 0;
-               if(buy){
-               profit = max(-prices[ind] + dp[ind+1][0],0+dp[ind+1][1]);
-               }
-             else{
-              profit = max(prices[ind]+dp[ind+1][1],0+dp[ind+1][0]);
-              }
-             dp[ind][buy] = profit;
-            }
+            currnotbuy = max(prices[ind] + aheadbuy , 0 + aheadnotbuy);
+
+            currbuy = max(-prices[ind] + aheadnotbuy , 0 + aheadbuy);
+
+            aheadbuy = currbuy;
+            aheadnotbuy = currnotbuy;
         }
-       return dp[0][1];
+       return aheadbuy;
     }
 };
