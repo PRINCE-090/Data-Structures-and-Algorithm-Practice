@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0846-hand-of-straights) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
