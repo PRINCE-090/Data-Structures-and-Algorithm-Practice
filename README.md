@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -591,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
