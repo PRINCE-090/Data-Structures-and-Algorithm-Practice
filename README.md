@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Prefix Sum
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
