@@ -1,3 +1,4 @@
+// Memoization
 class Solution {
 public:
     int maxSum(int ind,int n,int k,vector<int>&arr,vector<int>&dp){
@@ -12,6 +13,17 @@ public:
         }
         return dp[ind] = maxsum;
     }
+    int maxSumAfterPartitioning(vector<int>& arr, int k) {
+        int n = arr.size();
+        vector<int>dp(n,-1);
+        return maxSum(0,n,k,arr,dp);
+    }
+};
+
+
+// Tabulation
+class Solution {
+public:
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
         int n = arr.size();
         vector<int>dp(n+1,0);
