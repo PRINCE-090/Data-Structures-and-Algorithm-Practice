@@ -1,18 +1,17 @@
 class Solution {
 public:
-    int mincost(int ind , vector<int>&arr,vector<int>&dp){
-        int minicost = INT_MAX;
-        if(ind == arr.size()-1) return arr[ind];
-        if(ind >= arr.size()) return 0;
-        if(dp[ind] != -1) return dp[ind];
-        int onestep = arr[ind] + mincost(ind+1,arr,dp);
-        int twostep = arr[ind] + mincost(ind+2,arr,dp);
-        minicost = min(minicost , min(onestep,twostep));
-        return dp[ind] = minicost;
-    }
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
-        vector<int>dp(n,-1);
-        return min(mincost(0,cost,dp),mincost(1,cost,dp));
+        vector<int>dp(n+1,1e8);
+        dp[n-1] = cost[n-1];
+        dp[n] = 0;
+        int minicost = INT_MAX;
+        for(int ind = n-2;ind>=0;ind--){
+            int onestep = cost[ind] + dp[ind+1];
+            int twostep = cost[ind] + dp[ind+2];
+            dp[ind] =  min(onestep,twostep);
+            
+        }
+        return min(dp[0],dp[1]);
     }
 };
