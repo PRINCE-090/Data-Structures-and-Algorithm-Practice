@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2643-row-with-maximum-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2643-row-with-maximum-ones) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3693-climbing-stairs-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sliding Window
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Dynamic Programming
 |  |
 | ------- |
