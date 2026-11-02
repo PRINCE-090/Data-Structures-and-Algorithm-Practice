@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1901-find-a-peak-element-ii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1463-cherry-pickup-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3693-climbing-stairs-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3693-climbing-stairs-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1463-cherry-pickup-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1901-find-a-peak-element-ii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2643-row-with-maximum-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Stack
 |  |
