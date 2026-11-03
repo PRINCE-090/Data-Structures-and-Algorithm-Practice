@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0494-target-sum) |
 ## String
 |  |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
