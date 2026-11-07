@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
