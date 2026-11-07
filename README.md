@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0449-serialize-and-deserialize-bst) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -896,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
