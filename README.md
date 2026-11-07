@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2643-row-with-maximum-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2643-row-with-maximum-ones) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3693-climbing-stairs-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3693-climbing-stairs-ii) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2643-row-with-maximum-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2643-row-with-maximum-ones) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
