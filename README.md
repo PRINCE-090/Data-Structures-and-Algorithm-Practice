@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
