@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1765-map-of-highest-peak) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1905-count-sub-islands) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1289-minimum-falling-path-sum-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1905-count-sub-islands) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1034-coloring-a-border) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
