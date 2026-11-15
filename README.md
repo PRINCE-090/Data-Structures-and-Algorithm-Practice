@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1472-design-browser-history](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1937-maximum-number-of-points-with-cost) |
