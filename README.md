@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
