@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1043-partition-array-for-maximum-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1034-coloring-a-border) |
+| [1254-number-of-closed-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1034-coloring-a-border) |
+| [1254-number-of-closed-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1034-coloring-a-border) |
+| [1254-number-of-closed-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1905-count-sub-islands) |
