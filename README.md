@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
 | ------- |
