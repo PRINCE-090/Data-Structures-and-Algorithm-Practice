@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Prefix Sum
 |  |
