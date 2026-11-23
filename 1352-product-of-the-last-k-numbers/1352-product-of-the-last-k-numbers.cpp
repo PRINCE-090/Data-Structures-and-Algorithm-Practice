@@ -1,40 +1,23 @@
-class Node{
-public:
-    int val;
-    Node * next;
-    Node *prev;
-    Node(int value){
-      val = value;
-      next = nullptr;
-      prev = nullptr;
-    }
-};
 class ProductOfNumbers {
 public:
-    Node *dummy = new Node(-1);
-    Node *head = dummy;
-    Node *tail = dummy;
-
+   vector<int>prefix;
     ProductOfNumbers() {
-        
+        prefix = {1};
     }
     
     void add(int num) {
-        Node *node = new Node(num);
-        tail->next = node;
-        node->prev = tail;
-        tail = tail->next;
+        if(num == 0){
+            prefix = {1};
+        }
+        else {
+            prefix.push_back(prefix.back() * num);
+        }
     }
     
     int getProduct(int k) {
-        Node *curr = tail;
-        int i = 0, product = 1;
-        while(i < k && curr != head){
-            product *= curr->val;
-            curr = curr->prev;
-            i++;
-        }
-        return product;
+        int n = prefix.size();
+        if(k >= n) return 0;
+        return prefix.back() / prefix[n-1-k];
     }
 };
 
