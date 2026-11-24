@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3142-check-if-grid-satisfies-conditions](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
@@ -1158,10 +1161,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
