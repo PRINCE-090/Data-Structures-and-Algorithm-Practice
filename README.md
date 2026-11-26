@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/PRINCE-090/Data-Structures-and-Algorithm-Practice/tree/master/3360-stone-removal-game) |
 ## Union-Find
 |  |
 | ------- |
